@@ -12,7 +12,7 @@ export default function TopBar() {
             <HStack>
                 {/*Language title in bold, clicking takes back to home page*/}
                 <Box>
-                    <Link to={"/"}>
+                    <Link to={"/language-dictionary-website"}>
                         <Text as='b' pr='25px' whiteSpace='nowrap'>Le漢leng字ua</Text>
                     </Link>
                 </Box>
@@ -26,7 +26,7 @@ export default function TopBar() {
                 </InputGroup>
                 {/*Link to About Page*/}
                 <Box>
-                    <Link to={"/about"}>
+                    <Link to={"/language-dictionary-website/about"}>
                         <Text as='b' pl='25px' pr='25px' color='teal' whiteSpace='nowrap'>
                             About
                         </Text>
