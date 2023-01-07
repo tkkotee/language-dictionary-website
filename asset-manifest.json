@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/language-dictionary-website/static/css/main.31d6cfe0.css",
+    "main.js": "/language-dictionary-website/static/js/main.99e84d47.js",
+    "index.html": "/language-dictionary-website/index.html",
+    "main.99e84d47.js.map": "/language-dictionary-website/static/js/main.99e84d47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.99e84d47.js"
+  ]
+}
