@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# The LeshuaLenghua Dictionary
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an attempt to build an online dictionary for the language of LeshuaLenghua. Work is currently in progress on building a Deno/PostgreSql backend to support the project
 
 ## Available Scripts
 
