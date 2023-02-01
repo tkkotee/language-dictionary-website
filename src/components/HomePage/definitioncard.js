@@ -10,7 +10,7 @@ export default function DefinitionCard({definition}) {
                     <Stack spacing='4'>
                         <Box>
                             <Heading size='md'>
-                                {definition.foreign}
+                                {definition.word}
                             </Heading>
                         </Box>
                         <Box>
