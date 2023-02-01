@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/language-dictionary-website/static/css/main.31d6cfe0.css",
-    "main.js": "/language-dictionary-website/static/js/main.99e84d47.js",
+    "main.js": "/language-dictionary-website/static/js/main.581f1f0f.js",
     "index.html": "/language-dictionary-website/index.html",
-    "main.99e84d47.js.map": "/language-dictionary-website/static/js/main.99e84d47.js.map"
+    "main.581f1f0f.js.map": "/language-dictionary-website/static/js/main.581f1f0f.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.99e84d47.js"
+    "static/js/main.581f1f0f.js"
   ]
 }
