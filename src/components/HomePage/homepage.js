@@ -1,7 +1,7 @@
 import { Box } from '@chakra-ui/react';
 import { motion } from 'framer-motion';
 import DefinitionCardGroup from './definitioncardgroup';
-import FloatingAction from './floatingaction';
+import NewWordDialog from './floatingaction';
 
 // The main page of the app
 export default function HomePage() {
@@ -17,7 +17,7 @@ export default function HomePage() {
       <Box pl={5} pr={5}>
         <Box h='50px'></Box>
         <DefinitionCardGroup />
-        <FloatingAction />
+        <NewWordDialog />
       </Box>
     </motion.div>
   );
